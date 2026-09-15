@@ -9,8 +9,8 @@ This project presents an interactive Superstore Sales Dashboard developed as par
 The objective was to analyze sales data and transform it into meaningful business insights through KPIs and visualizations.
 
 ## Dashboard Preview
+<img width="965" height="538" alt="SuperStore_Dashboard" src="https://github.com/user-attachments/assets/e25f1e3b-2f16-4816-8f70-de2cdd7f0c72" />
 
-![Superstore Sales Dashboard](dashboard.png)
 
 ## Key Performance Indicators
 
